@@ -33,7 +33,7 @@ export const FOOTER_SECTIONS = {
     { name: "Linkedin", key: "linkedin" },
   ],
   contact: {
-    email: "support@shophub.com",
+    email: "naveedahmadkhan963@gmail.com",
     phone: "+92 306 9829900",
     address: "7th Road, Rawalpindi",
   },
