@@ -7,13 +7,13 @@ export const CONTACT_INFO = [
   {
     icon: Mail,
     title: "Email",
-    value: "support@shophub.com",
+    value: "naveedahmadkhan963@gmail.com",
     subtitle: "We respond within 24 hours",
   },
   {
     icon: Phone,
     title: "Phone",
-    value: "+1 (555) 123-4567",
+    value: "+92 3069829900",
     subtitle: "Mon - Fri, 9 AM - 6 PM EST",
   },
 ];
