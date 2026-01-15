@@ -9,7 +9,7 @@ import { getErrorMessage } from "../utils/helpers";
 export const useLoginForm = (login) => {
   const dispatch = useDispatch();
   const navigate = useNavigate();
-  const [formData, setFormData] = useState({ email: "", password: "" });
+  const [formData, setFormData] = useState({ email: "naveedahmadcodes@gmail.com", password: "123456" });
   const [showPassword, setShowPassword] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
 
