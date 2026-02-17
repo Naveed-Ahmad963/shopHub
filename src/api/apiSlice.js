@@ -4,7 +4,7 @@
 import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 
 const baseQuery = fetchBaseQuery({
-  baseUrl: import.meta.env.VITE_API_URL || "https://shophupapi-production-98b1.up.railway.app/api",
+  baseUrl: import.meta.env.VITE_API_URL || "https://shophupapi-production-98b1.up.railway.app/ap",
   credentials: "include", // Important for cookies
   prepareHeaders: (headers, { getState }) => {
     // Get token from Redux state
